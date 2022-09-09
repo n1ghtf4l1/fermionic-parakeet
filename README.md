@@ -1,6 +1,6 @@
 #### fermionic-parakeet
 
-# **Implementing Jordan-Wigner & Bravyi-KItaev Transforms using OpenFermion Library**
+# **Implementing Jordan-Wigner & Bravyi-Kitaev Transforms using OpenFermion Library**
 
 ##### Implement the Jordan-Wigner &amp; Bravyi-Kitaev transforms
 
